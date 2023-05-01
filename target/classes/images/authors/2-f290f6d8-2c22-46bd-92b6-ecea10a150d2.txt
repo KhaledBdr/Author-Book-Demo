@@ -1,0 +1,22 @@
+0c:c6:fd:c0:4a:ab		Redmi-Note-11
+5c:ea:1d:42:2b:c1		DESKTOP-ULROQU1
+7c:f9:0e:b3:ec:15		ANDROID
+ba:64:42:20:29:20	OPPO F-9 (NOT OUR)
+5a:c8:db:16:8e:d9		GALAXY A10S (not our)
+92:fc:37:c7:7e:6a		Redmi-10 (not our)
+d2:87:a8:3b:ea:74		NO NAME
+26:f5:b5:05:0a:e5		OPPO-F9 
+1e:77:19:9a:ce:5d		Note20-alkhas-b-hamd
+74:d2:1d:3a:75:dc		HUAWEI_Y7_Prime_2018-5c84 (not our)
+88:10:8f:2a:6d:87		HUAWEI_P_smart_2019-d48f6 (not our)
+BA:64:42:20:29:20	not our
+24:06:aa:3c:2c:e5		reno 5 (hamo tolis)
+
+
+
+
+visitor DP
+DTO
+Java refliction
+01149999109
+mom
